@@ -281,12 +281,10 @@ The `}}}` at the end of each function marks the end of the fold, and should
 be on a separate line.
 
 ```c
-/* {{{ Returns the absolute value of the number */
 PHP_FUNCTION(abs)
 {
     ...
 }
-/* }}} */
 ```
 
 ## New and experimental functions
